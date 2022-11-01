@@ -40,6 +40,8 @@
 
 ![Στιγμιότυπο 2022-11-01, 12 47 53 μμ](https://user-images.githubusercontent.com/84547304/199218297-5a1e69c3-e934-4ee9-9bf9-0ea9ceb7bbbd.png)
 
+![qr-code](https://user-images.githubusercontent.com/84547304/199255214-dccad7cb-c9f5-4b20-b48a-71972b07c2d9.png)
+
 
 # 2nd Deliverable
 
