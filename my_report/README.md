@@ -42,6 +42,12 @@
 
 ![qr-code](https://user-images.githubusercontent.com/84547304/199255214-dccad7cb-c9f5-4b20-b48a-71972b07c2d9.png)
 
+5. Augmented Reality
+
+Αφού έκανα εγκατάσταση την τελευταία έκδοση της βιβλιοθήκης NyARToolkit, (nyar4psg.zip), πήρα τον κώδικα από το έτοιμο παράδειγμα simpleLite και το έτρεξα. Έπειτα έβαλα την φωτογραφία στα data που έβαλα στον φάκελο που είναι αποθηκευμένος ο κώδικας και πρόσθεσα στον κώδικα από το παράδειγμα QR Code το αντίστοιχο κομμάτι για την εικόνα.
+
+![Στιγμιότυπο 2022-11-01, 5 12 03 μμ](https://user-images.githubusercontent.com/84547304/199272332-c76c958a-08f7-442b-bc16-deab48a0e0a7.png)
+
 
 # 2nd Deliverable
 
