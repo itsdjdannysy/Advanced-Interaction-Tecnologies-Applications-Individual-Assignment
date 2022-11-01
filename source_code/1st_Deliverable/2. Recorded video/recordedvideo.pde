@@ -7,13 +7,13 @@ Movie movie;
 
 void setup() {
   size(1280, 680);
-
+3
   // Step 2. Initialize Movie object
   // Movie file should be in data folder
-  movie = new Movie(this, "IMG_3435.MOV"); 
+  movie = new Movie(this, "IMG_3435.MOV");  
 
   // Step 3. Start movie playing
-  movie.loop();
+  movie.loop(); 
 }
 
 // Step 4. Read new frames from movie
