@@ -51,6 +51,10 @@
 
 # 2nd Deliverable
 
+4. Object Tracking
+
+Χρησιμοποιώντας το example 16-11 & το example 9-8, έφτιαξα τον κώδικα στο sketch "xpos[xpos.length-1] = closestX;" "ypos[ypos.length-1] = closestY;" , προκειμένου η είσοδος να γίνεται από ένα αντικείμενο της επιλογής μου με αριστερό κλικ από το ποντίκι, και το φιδάκι να ακολουθεί αλλά και να είναι το χρώμα αυτο![screenforgithubreport](https://user-images.githubusercontent.com/84547304/206912926-da493626-5ccb-4da9-92ef-fa5b08245ed2.png)
+ύ.
 
 # 3rd Deliverable 
 
