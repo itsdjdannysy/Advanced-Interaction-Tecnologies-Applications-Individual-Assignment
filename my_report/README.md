@@ -54,10 +54,15 @@
 
 ![Στιγμιότυπο 2022-12-14, 12 07 11 μμ](https://user-images.githubusercontent.com/84547304/207571050-561e1d8b-105a-4168-9d65-033c9e077b94.png)
 
-4. Object Tracking
+3. Background Substraction - Library use
 
-Χρησιμοποιώντας το example 16-11 & το example 9-8, έφτιαξα τον κώδικα στο sketch "xpos[xpos.length-1] = closestX;" "ypos[ypos.length-1] = closestY;" , προκειμένου η είσοδος να γίνεται από ένα αντικείμενο της επιλογής μου με αριστερό κλικ από το ποντίκι, και το φιδάκι να ακολουθεί αλλά και να είναι το χρώμα αυτο![screenforgithubreport](https://user-images.githubusercontent.com/84547304/206912926-da493626-5ccb-4da9-92ef-fa5b08245ed2.png)
-ύ.
+![Στιγμιότυπο 2022-12-14, 12 53 52 μμ](https://user-images.githubusercontent.com/84547304/207578993-90aa7e3b-04c4-4fc8-839d-de2a50050cb6.png)
+
+
+5. Object Tracking
+
+Χρησιμοποιώντας το example 16-11 & το example 9-8, έφτιαξα τον κώδικα στο sketch "xpos[xpos.length-1] = closestX;" "ypos[ypos.length-1] = closestY;" , προκειμένου η είσοδος να γίνεται από ένα αντικείμενο της επιλογής μου με αριστερό κλικ από το ποντίκι, και το φιδάκι να ακολουθεί αλλά και να είναι το χρώμα αυτού![screenforgithubreport](https://user-images.githubusercontent.com/84547304/206912926-da493626-5ccb-4da9-92ef-fa5b08245ed2.png)
+
 
 # 3rd Deliverable 
 
