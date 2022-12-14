@@ -50,6 +50,9 @@
 
 
 # 2nd Deliverable
+2. Motion Detection
+
+![Στιγμιότυπο 2022-12-14, 12 07 11 μμ](https://user-images.githubusercontent.com/84547304/207571050-561e1d8b-105a-4168-9d65-033c9e077b94.png)
 
 4. Object Tracking
 
