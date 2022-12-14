@@ -50,11 +50,16 @@
 
 
 # 2nd Deliverable
+
 2. Motion Detection
+
+Άνοιξα το παράδειγμα 16-7, το έκανα copy paste στο sketch και πείραξα το χρώμα, το μέγεθος της έλλειψης και αύξησα το threshold = 150;.
 
 ![Στιγμιότυπο 2022-12-14, 12 07 11 μμ](https://user-images.githubusercontent.com/84547304/207571050-561e1d8b-105a-4168-9d65-033c9e077b94.png)
 
 3. Background Substraction - Library use
+
+Αρχικά κατέβασα την βιβλιοθήκη OpenCV for Processing, άνοιξα το παράδειγμα BackgroundSubstractio και με βοήθεια από το παράδειγμα capture έφτιαξα τον κώδικα. Αλλαξα το size(320, 240), πρόσθεσα το video = new Capture(this, 320, 240); video.start();, άλλαξα το stroke.
 
 ![Στιγμιότυπο 2022-12-14, 12 53 52 μμ](https://user-images.githubusercontent.com/84547304/207578993-90aa7e3b-04c4-4fc8-839d-de2a50050cb6.png)
 
