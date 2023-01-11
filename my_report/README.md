@@ -71,6 +71,10 @@
 
 # 3rd Deliverable 
 
+Χρησιμοποίησα την εφαρμογή reacTIVision vision engine από υπολογιστή του εργαστηρίου, την βιβλιοθήκη reacTIVision στο Processing, την εφαρμογή TUIO Simulator και άνοιξα το παράδειγμα TUIO demo. Στην αρχή ήταν λευκή η οθόνη αλλά όταν έβαζα τα σχήματα μέσα στον κύκλο από το simulator φαινόντουσαν ταυτόχρονα και στο παράθυρο.![Screenshot (2)](https://user-images.githubusercontent.com/84547304/211915199-1af12697-572e-442e-919f-155647ed9fc4.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/84547304/211915209-e5fa64ba-1b55-4cb3-971e-4051e9f31bf6.png)
+
+
 
 # Bonus 
 
